@@ -1,0 +1,15 @@
+html{
+    background-color: black;
+}
+
+img{
+    border: 10px solid white;
+    margin : 40px 0 0 400px;
+}
+
+#main{
+    text-align: center;
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
